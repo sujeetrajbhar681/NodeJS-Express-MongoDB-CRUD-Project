@@ -1,10 +1,11 @@
 {
   "name": "node_express_mongodb_project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A full-stack Student Management System developed using Node.js, Express.js, MongoDB, and Mongoose. This project demonstrates CRUD Operations, Middleware Implementation, MongoDB Integration, HTML/CSS User Interface Design, and Modular Programming.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +15,13 @@
     "express": "^5.2.1",
     "mongoose": "^9.7.0",
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujeetrajbhar681/NodeJS-Express-MongoDB-CRUD-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sujeetrajbhar681/NodeJS-Express-MongoDB-CRUD-Project/issues"
+  },
+  "homepage": "https://github.com/sujeetrajbhar681/NodeJS-Express-MongoDB-CRUD-Project#readme"
 }

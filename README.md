@@ -206,27 +206,27 @@ nodemon server.js
 
 ### Home Page
 
-(Add Screenshot)
+![Home Page](screenshots/home.png)
 
 ### About Page
 
-(Add Screenshot)
+![About Page](screenshots/about.png)
 
 ### Contact Page
 
-(Add Screenshot)
+![Contact Page](screenshots/contact.png)
 
-### Student Form
+### Student Registration Form
 
-(Add Screenshot)
+![Student Form](screenshots/form.png)
 
 ### MongoDB Records
 
-(Add Screenshot)
+![MongoDB Records](screenshots/mongodb-records.png)
 
 ### CRUD Operations
 
-(Add Screenshot)
+![CRUD Operations](screenshots/crud-output.png)
 
 ---
 
